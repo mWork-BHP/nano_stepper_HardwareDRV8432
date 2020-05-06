@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES-SMD-2512 New Footprint=RES-SMD-0603_BIG
+Change Component Footprint: Designator=R2 Old Footprint=RES-SMD-2512 New Footprint=RES-SMD-0603_BIG
+Change Component Footprint: Designator=R3 Old Footprint=RES-SMD-2512 New Footprint=RES-SMD-0603_BIG
+Change Room Name: Old Name=Designator_1 New Name=Designator

@@ -1,0 +1,6 @@
+Added Component: Designator=Step?(DRV8432)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/drv8432.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/DRV8432DKDR/296-29573-2-ND/2353367"; VariantName = "[No Variations]"
+Change Room Name: Old Name=Designator_1 New Name=Designator

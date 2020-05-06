@@ -1,0 +1,78 @@
+Removed Pin From Net: NetName=+12 Pin=Step1-1
+Removed Pin From Net: NetName=NetC27_4 Pin=Step1-2
+Removed Pin From Net: NetName=NetC27_3 Pin=Step1-3
+Removed Pin From Net: NetName=PWM_A Pin=Step1-4
+Removed Pin From Net: NetName=NetC27_2 Pin=Step1-5
+Removed Pin From Net: NetName=PWM_B Pin=Step1-6
+Removed Pin From Net: NetName=NetR24_1 Pin=Step1-7
+Removed Pin From Net: NetName=GND Pin=Step1-8
+Removed Pin From Net: NetName=NetC35_2 Pin=Step1-9
+Removed Pin From Net: NetName=NetC35_1 Pin=Step1-10
+Removed Pin From Net: NetName=NetC35_2 Pin=Step1-11
+Removed Pin From Net: NetName=NetC35_2 Pin=Step1-12
+Removed Pin From Net: NetName=NetC35_2 Pin=Step1-13
+Removed Pin From Net: NetName=PWM_C Pin=Step1-14
+Removed Pin From Net: NetName=NetC27_1 Pin=Step1-15
+Removed Pin From Net: NetName=PWM_D Pin=Step1-16
+Removed Pin From Net: NetName=+12 Pin=Step1-17
+Removed Pin From Net: NetName=+12 Pin=Step1-18
+Removed Pin From Net: NetName=+12 Pin=Step1-19
+Removed Pin From Net: NetName=NetC38_1 Pin=Step1-20
+Removed Pin From Net: NetName=VPP Pin=Step1-21
+Removed Pin From Net: NetName=NetC38_2 Pin=Step1-22
+Removed Pin From Net: NetName=GND Pin=Step1-23
+Removed Pin From Net: NetName=GND Pin=Step1-24
+Removed Pin From Net: NetName=NetC37_2 Pin=Step1-25
+Removed Pin From Net: NetName=VPP Pin=Step1-26
+Removed Pin From Net: NetName=NetC37_1 Pin=Step1-27
+Removed Pin From Net: NetName=NetC36_1 Pin=Step1-28
+Removed Pin From Net: NetName=VPP Pin=Step1-29
+Removed Pin From Net: NetName=NetC36_2 Pin=Step1-30
+Removed Pin From Net: NetName=GND Pin=Step1-31
+Removed Pin From Net: NetName=GND Pin=Step1-32
+Removed Pin From Net: NetName=NetC34_2 Pin=Step1-33
+Removed Pin From Net: NetName=VPP Pin=Step1-34
+Removed Pin From Net: NetName=NetC34_1 Pin=Step1-35
+Removed Pin From Net: NetName=+12 Pin=Step1-36
+Removed Member From Class: ClassName=Designator Member=Step1
+Added Component: Designator=Step?(DRV8432)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/drv8432.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "BOM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/texas-instruments/DRV8432DKDR/296-29573-2-ND/2353367"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=Step?-1
+Added Pin To Net: NetName=NetC27_4 Pin=Step?-2
+Added Pin To Net: NetName=NetC27_3 Pin=Step?-3
+Added Pin To Net: NetName=NetC27_2 Pin=Step?-5
+Added Pin To Net: NetName=PWM_B Pin=Step?-6
+Added Pin To Net: NetName=NetR24_1 Pin=Step?-7
+Added Pin To Net: NetName=GND Pin=Step?-8
+Added Pin To Net: NetName=NetC35_2 Pin=Step?-9
+Added Pin To Net: NetName=NetC35_1 Pin=Step?-10
+Added Pin To Net: NetName=NetC35_2 Pin=Step?-11
+Added Pin To Net: NetName=NetC35_2 Pin=Step?-12
+Added Pin To Net: NetName=NetC35_2 Pin=Step?-13
+Added Pin To Net: NetName=PWM_C Pin=Step?-14
+Added Pin To Net: NetName=NetC27_1 Pin=Step?-15
+Added Pin To Net: NetName=+12 Pin=Step?-17
+Added Pin To Net: NetName=+12 Pin=Step?-18
+Added Pin To Net: NetName=+12 Pin=Step?-19
+Added Pin To Net: NetName=NetC38_1 Pin=Step?-20
+Added Pin To Net: NetName=VPP Pin=Step?-21
+Added Pin To Net: NetName=NetC38_2 Pin=Step?-22
+Added Pin To Net: NetName=GND Pin=Step?-23
+Added Pin To Net: NetName=GND Pin=Step?-24
+Added Pin To Net: NetName=NetC37_2 Pin=Step?-25
+Added Pin To Net: NetName=VPP Pin=Step?-26
+Added Pin To Net: NetName=NetC37_1 Pin=Step?-27
+Added Pin To Net: NetName=NetC36_1 Pin=Step?-28
+Added Pin To Net: NetName=VPP Pin=Step?-29
+Added Pin To Net: NetName=NetC36_2 Pin=Step?-30
+Added Pin To Net: NetName=GND Pin=Step?-31
+Added Pin To Net: NetName=GND Pin=Step?-32
+Added Pin To Net: NetName=NetC34_2 Pin=Step?-33
+Added Pin To Net: NetName=VPP Pin=Step?-34
+Added Pin To Net: NetName=NetC34_1 Pin=Step?-35
+Added Pin To Net: NetName=+12 Pin=Step?-36
+Added Member To Class: ClassName=Designator Member=Component Step? DRV8432
+Change Room Name: Old Name=Designator_1 New Name=Designator

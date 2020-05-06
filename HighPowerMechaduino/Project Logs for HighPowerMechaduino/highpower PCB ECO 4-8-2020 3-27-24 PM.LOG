@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=SPI_SS Pin=AS1-1
+Removed Pin From Net: NetName=SPI_SS Pin=U?-8
+Change Net Name : Old Net Name=SPI_SS New Net Name=NetAS1_2
+Added Pin To Net: NetName=SPI_SS Pin=AS1-1
+Added Pin To Net: NetName=SPI_SS Pin=U?-8
+Added Net: Name=SPI_SS

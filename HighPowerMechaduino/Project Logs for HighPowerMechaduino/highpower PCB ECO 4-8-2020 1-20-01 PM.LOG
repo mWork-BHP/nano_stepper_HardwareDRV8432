@@ -1,0 +1,9 @@
+Added Component: Designator=U?(QFP50P900X900X120-48N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATSAMD21G18A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-48 Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATSAMD21G18A-AU/Microchip/view-part/55502/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ArduinoZero Member=Component U? ATSAMD21G18A-AU

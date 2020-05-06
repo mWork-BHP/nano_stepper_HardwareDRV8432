@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=Reset Pin=Reset-2
+Removed Pin From Net: NetName=Reset Pin=U1-40
+Removed Member From Class: ClassName=Power Member=Q4
+Change Component Designator: OldDesignator=IN NewDesignator=LED2
+Change Component Designator: OldDesignator=OUT NewDesignator=LED1
+Added Component: Designator=R26(RES-SMD-0603_BIG)
+Added Component: Designator=R?(RES-SMD-0603_BIG)
+Added Pin To Net: NetName=Reset Pin=R26-1
+Added Pin To Net: NetName=Reset Pin=R?-2
+Added Pin To Net: NetName=NetR26_2 Pin=R26-2
+Added Pin To Net: NetName=NetR26_2 Pin=U1-40
+Added Net: Name=NetR26_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=Reset-2
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=Power Member=Component Q1 Fet P
+Added Member To Class: ClassName=ArduinoZero Member=Component R26 330R
+Added Member To Class: ClassName=ArduinoZero Member=Component R? 39R

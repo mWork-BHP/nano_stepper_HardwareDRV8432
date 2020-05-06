@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=*2-2
+Removed Pin From Net: NetName=VPP Pin=*2-4
+Removed Pin From Net: NetName=VPP Pin=*2-5
+Removed Pin From Net: NetName=Net*2_6 Pin=*2-6
+Removed Member From Class: ClassName=Power Member=*2
+Change Component Footprint: Designator=C34 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603_big
+Change Component Footprint: Designator=C38 Old Footprint=CN-SMD-0805 New Footprint=CN-SMD-0603_big
+Change Component Designator: OldDesignator=  NewDesignator=C36
+Change Component Designator: OldDesignator=C? NewDesignator=C32
+Added Component: Designator=MCP1(SOT23-6-)
+Added Pin To Net: NetName=GND Pin=MCP1-2
+Added Pin To Net: NetName=VPP Pin=MCP1-4
+Added Pin To Net: NetName=VPP Pin=MCP1-5
+Added Pin To Net: NetName=Net*2_6 Pin=MCP1-6
+Change Net Name : Old Net Name=Net*2_6 New Net Name=NetC20_1
+Added Pin To Net: NetName=NetC20_2 Pin=C20-2
+Added Pin To Net: NetName=NetC20_2 Pin=D3-2
+Added Pin To Net: NetName=NetC20_2 Pin=MCP1-1
+Added Pin To Net: NetName=NetC20_2 Pin=MCP1-1
+Added Net: Name=NetC20_2
+Added Pin To Net: NetName=NetMCP1_3 Pin=MCP1-3
+Added Pin To Net: NetName=NetMCP1_3 Pin=R17-2
+Added Pin To Net: NetName=NetMCP1_3 Pin=R18-1
+Added Net: Name=NetMCP1_3
+Added Member To Class: ClassName=Motor Member=Component C35 0.1uF
+Added Member To Class: ClassName=Power Member=Component MCP1 MCP16331

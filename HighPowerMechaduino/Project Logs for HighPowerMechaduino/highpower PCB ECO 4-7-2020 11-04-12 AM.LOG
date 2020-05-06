@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=VPP Pin=*1-1
+Removed Pin From Net: NetName=VPP Pin=*1-2
+Removed Pin From Net: NetName=VPP Pin=J1-2
+Change Component Footprint: Designator=AS1 Old Footprint=AS5047D New Footprint=AS5047D_Module
+Added Component: Designator=Fuse(fuse)
+Added Pin To Net: NetName=VPP Pin=Fuse-2
+Added Pin To Net: NetName=NetFuse_1 Pin=Fuse-1
+Added Pin To Net: NetName=NetFuse_1 Pin=J1-2
+Added Net: Name=NetFuse_1
+Change Room Name: Old Name=Designator_1 New Name=Designator

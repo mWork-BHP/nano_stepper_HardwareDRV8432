@@ -1,0 +1,107 @@
+Removed Pin From Net: NetName=NetC13_2 Pin=U1-1
+Removed Pin From Net: NetName=NetC16_2 Pin=U1-2
+Removed Pin From Net: NetName=NetC1_4 Pin=U1-3
+Removed Pin From Net: NetName=AREF Pin=U1-4
+Removed Pin From Net: NetName=GND Pin=U1-5
+Removed Pin From Net: NetName=NetC7_1 Pin=U1-6
+Removed Pin From Net: NetName=NetC1_3 Pin=U1-7
+Removed Pin From Net: NetName=SPI_SS Pin=U1-8
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-9
+Removed Pin From Net: NetName=PWM_A Pin=U1-10
+Removed Pin From Net: NetName=D8 Pin=U1-11
+Removed Pin From Net: NetName=VREF12 Pin=U1-12
+Removed Pin From Net: NetName=VREF34 Pin=U1-13
+Removed Pin From Net: NetName=NetC4_3 Pin=U1-14
+Removed Pin From Net: NetName=D1 Pin=U1-15
+Removed Pin From Net: NetName=D0 Pin=U1-16
+Removed Pin From Net: NetName=VCC Pin=U1-17
+Removed Pin From Net: NetName=GND Pin=U1-18
+Removed Pin From Net: NetName=MOSI Pin=U1-19
+Removed Pin From Net: NetName=SCK Pin=U1-20
+Removed Pin From Net: NetName=MISO Pin=U1-21
+Removed Pin From Net: NetName=NetR7_2 Pin=U1-22
+Removed Pin From Net: NetName=NetC4_4 Pin=U1-23
+Removed Pin From Net: NetName=PWM_D Pin=U1-24
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-25
+Removed Pin From Net: NetName=D13 Pin=U1-26
+Removed Pin From Net: NetName=D10 Pin=U1-27
+Removed Pin From Net: NetName=NetC4_1 Pin=U1-28
+Removed Pin From Net: NetName=PWM_C Pin=U1-29
+Removed Pin From Net: NetName=PWM_B Pin=U1-30
+Removed Pin From Net: NetName=GND Pin=U1-35
+Removed Pin From Net: NetName=VCC Pin=U1-36
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-37
+Removed Pin From Net: NetName=NetC6_1 Pin=U1-38
+Removed Pin From Net: NetName=Reset Pin=U1-40
+Removed Pin From Net: NetName=GND Pin=U1-42
+Removed Pin From Net: NetName=NetC17_1 Pin=U1-43
+Removed Pin From Net: NetName=VCC Pin=U1-44
+Removed Pin From Net: NetName=SW_CLK Pin=U1-45
+Removed Pin From Net: NetName=SW_DIO Pin=U1-46
+Removed Pin From Net: NetName=NetC1_1 Pin=U1-47
+Removed Member From Class: ClassName=ArduinoZero Member=U1
+Added Component: Designator=U?(QFP50P900X900X120-48N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ATSAMD21G18A-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TQFP-48 Atmel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ATSAMD21G18A-AU/Microchip/view-part/55502/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC13_2 Pin=U?-1
+Added Pin To Net: NetName=NetC16_2 Pin=U?-2
+Added Pin To Net: NetName=NetC1_4 Pin=U?-3
+Added Pin To Net: NetName=AREF Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-5
+Added Pin To Net: NetName=NetC7_1 Pin=U?-6
+Added Pin To Net: NetName=NetC1_3 Pin=U?-7
+Added Pin To Net: NetName=SPI_SS Pin=U?-8
+Added Pin To Net: NetName=NetC1_2 Pin=U?-9
+Added Pin To Net: NetName=PWM_A Pin=U?-10
+Added Pin To Net: NetName=D8 Pin=U?-11
+Added Pin To Net: NetName=VREF12 Pin=U?-12
+Added Pin To Net: NetName=VREF34 Pin=U?-13
+Added Pin To Net: NetName=NetC4_3 Pin=U?-14
+Added Pin To Net: NetName=D1 Pin=U?-15
+Added Pin To Net: NetName=D0 Pin=U?-16
+Added Pin To Net: NetName=VCC Pin=U?-17
+Added Pin To Net: NetName=GND Pin=U?-18
+Added Pin To Net: NetName=MOSI Pin=U?-19
+Added Pin To Net: NetName=SCK Pin=U?-20
+Added Pin To Net: NetName=MISO Pin=U?-21
+Added Pin To Net: NetName=NetR7_2 Pin=U?-22
+Added Pin To Net: NetName=NetC4_4 Pin=U?-23
+Added Pin To Net: NetName=PWM_D Pin=U?-24
+Added Pin To Net: NetName=NetC4_2 Pin=U?-25
+Added Pin To Net: NetName=D13 Pin=U?-26
+Added Pin To Net: NetName=D10 Pin=U?-27
+Added Pin To Net: NetName=NetC4_1 Pin=U?-28
+Added Pin To Net: NetName=PWM_C Pin=U?-29
+Added Pin To Net: NetName=PWM_B Pin=U?-30
+Added Pin To Net: NetName=GND Pin=U?-35
+Added Pin To Net: NetName=VCC Pin=U?-36
+Added Pin To Net: NetName=NetC6_2 Pin=U?-37
+Added Pin To Net: NetName=NetC6_1 Pin=U?-38
+Added Pin To Net: NetName=Reset Pin=U?-40
+Added Pin To Net: NetName=GND Pin=U?-42
+Added Pin To Net: NetName=NetC17_1 Pin=U?-43
+Added Pin To Net: NetName=VCC Pin=U?-44
+Added Pin To Net: NetName=SW_CLK Pin=U?-45
+Added Pin To Net: NetName=SW_DIO Pin=U?-46
+Added Pin To Net: NetName=NetC1_1 Pin=U?-47
+Added Pin To Net: NetName=NetU?_31 Pin=U?-31
+Added Net: Name=NetU?_31
+Added Pin To Net: NetName=NetU?_32 Pin=U?-32
+Added Net: Name=NetU?_32
+Added Pin To Net: NetName=NetU?_33 Pin=U?-33
+Added Net: Name=NetU?_33
+Added Pin To Net: NetName=NetU?_34 Pin=U?-34
+Added Net: Name=NetU?_34
+Added Pin To Net: NetName=NetU?_39 Pin=U?-39
+Added Net: Name=NetU?_39
+Added Pin To Net: NetName=NetU?_41 Pin=U?-41
+Added Net: Name=NetU?_41
+Added Pin To Net: NetName=NetU?_48 Pin=U?-48
+Added Net: Name=NetU?_48
+Added Member To Class: ClassName=ArduinoZero Member=Component U? ATSAMD21G18A-AU
+Added Room: Name=Designator

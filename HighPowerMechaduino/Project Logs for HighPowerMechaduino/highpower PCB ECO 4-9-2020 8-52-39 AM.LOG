@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=D13 Pin=LED1-1
+Removed Pin From Net: NetName=GND Pin=R4-2
+Removed Member From Class: ClassName=Main Member=LED1
+Removed Member From Class: ClassName=Main Member=R4
+Added Component: Designator=LED3(LED-0805-Blue)
+Add component (AddParameter): Name = "Value"; Value = "LED 3 - 5 ly 2 Colour"; VariantName = "[No Variations]"
+Added Component: Designator=Q5(SOT23-bss138)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "MICROSS/On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BSS138"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-236-3 Micross"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BSS138/MICROSS/On%20Semiconductor/view-part/2773844/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES-SMD-0603_BIG)
+Added Component: Designator=R30(RES-SMD-0603_BIG)
+Added Pin To Net: NetName=VCC Pin=LED3-1
+Added Pin To Net: NetName=D13 Pin=Q5-G
+Added Pin To Net: NetName=GND Pin=Q5-S
+Added Pin To Net: NetName=GND Pin=R30-1
+Added Pin To Net: NetName=D13 Pin=R30-2
+Added Pin To Net: NetName=NetLED3_2 Pin=LED3-2
+Added Pin To Net: NetName=NetLED3_2 Pin=R29-1
+Added Net: Name=NetLED3_2
+Added Pin To Net: NetName=NetQ5_D Pin=Q5-D
+Added Pin To Net: NetName=NetQ5_D Pin=R29-2
+Added Net: Name=NetQ5_D
+Added Member To Class: ClassName=Main Member=Component LED3 LED
+Added Member To Class: ClassName=Main Member=Component Q5 BSS138
+Added Member To Class: ClassName=Main Member=Component R29 330R
+Added Member To Class: ClassName=Main Member=Component R30 22K

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=VPP Pin=Fuse-2
+Removed Member From Class: ClassName=Power Member=Fuse
+Added Pin To Net: NetName=VPP Pin=D1-2
+Added Pin To Net: NetName=VPP Pin=J1-2

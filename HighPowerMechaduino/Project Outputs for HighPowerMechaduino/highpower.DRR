@@ -1,0 +1,30 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: highpower.PcbDoc   4/9/2020  10:50:19 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : highpower-RoundHoles.TXT
+ASCII SlotHoles File : highpower-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.399mm)                                           Round             321       PTH        0.00inch (0.00mm)
+T2      20mil (0.5mm)                                             Round             39        PTH        0.00inch (0.00mm)
+T3      28mil (0.711mm)                                           Round             17        PTH        0.00inch (0.00mm)
+T4      32mil (0.8mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      32mil (0.813mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T6      40mil (1.016mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T7      40mil (1.021mm)                                           Round             16        PTH        0.00inch (0.00mm)
+T8      43mil (1.1mm)                                             Round             41        PTH        0.00inch (0.00mm)
+T9      59mil (1.501mm)                                           Slot              2         PTH        0.00inch (0.00mm)
+T10     60mil (1.524mm)                                           Round             6         PTH        0.00inch (0.00mm)
+T11     63mil (1.6mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T12     130mil (3.299mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T13     138mil (3.5mm)          +1693mil (43mm)                   Slot              4         PTH        0.00inch (0.00mm)
+T14     158mil (4.001mm)                                          Round             2         PTH        0.00inch (0.00mm)
+T15     158mil (4.001mm)        +1693mil (43mm)                   Slot              2         PTH        0.00inch (0.00mm)
+T16     354mil (8.999mm)                                          Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              467
+
+Total Processing Time (hh:mm:ss) : 00:00:01

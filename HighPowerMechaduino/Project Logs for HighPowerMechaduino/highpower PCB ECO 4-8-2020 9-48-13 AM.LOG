@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=SPI_SS Pin=AS1-1
+Removed Pin From Net: NetName=GND Pin=AS1-5
+Removed Pin From Net: NetName=VCC Pin=AS1-11
+Removed Pin From Net: NetName=VCC Pin=AS1-12
+Removed Pin From Net: NetName=GND Pin=AS1-13
+Removed Member From Class: ClassName=Main Member=AS1
+Added Component: Designator=AS?(AS5047D_Module)
+Add component (AddParameter): Name = "Company_Part_GUID"; Value = "altiumdb5786b44c08eb91.84503477"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component"; Value = "AS5047D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current_Str"; Value = "A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture_Parts"; Value = ":AS5047D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AS5047D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Misfit Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage_Str"; Value = "0V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watts"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Watts_Str"; Value = "0W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SPI_SS Pin=AS?-1
+Added Pin To Net: NetName=GND Pin=AS?-5
+Added Pin To Net: NetName=VCC Pin=AS?-11
+Added Pin To Net: NetName=VCC Pin=AS?-12
+Added Pin To Net: NetName=GND Pin=AS?-13
+Added Pin To Net: NetName=NetAS?_2 Pin=AS?-2
+Added Pin To Net: NetName=NetAS?_2 Pin=R1-1
+Added Net: Name=NetAS?_2
+Added Pin To Net: NetName=NetAS?_3 Pin=AS?-3
+Added Pin To Net: NetName=NetAS?_3 Pin=R2-1
+Added Net: Name=NetAS?_3
+Added Pin To Net: NetName=NetAS?_4 Pin=AS?-4
+Added Pin To Net: NetName=NetAS?_4 Pin=R3-1
+Added Net: Name=NetAS?_4
+Added Member To Class: ClassName=Main Member=Component AS? AS5047D

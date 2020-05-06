@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VPP Pin=D1-2
+Change Component Footprint: Designator=C22 Old Footprint=CAP-ALU-SMD-H New Footprint=CAP-ALU-SMD-6.3x7.7x2.2
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Fuse-1
+Added Pin To Net: NetName=NetD1_2 Pin=J1-2
+Added Net: Name=NetD1_2
+Change Room Name: Old Name=Designator_1 New Name=Designator

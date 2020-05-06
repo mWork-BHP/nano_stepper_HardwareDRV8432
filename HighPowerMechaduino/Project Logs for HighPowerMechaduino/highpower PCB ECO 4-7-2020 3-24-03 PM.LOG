@@ -1,0 +1,14 @@
+Added Component: Designator=RJ1(RJ45-Dung)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Mua"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://thegioiic.com/products/rj45-top-cong-rj45-top-180-do"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Step Pin=RJ1-1
+Added Pin To Net: NetName=GND Pin=RJ1-2
+Added Pin To Net: NetName=Dir Pin=RJ1-3
+Added Pin To Net: NetName=Enable Pin=RJ1-4
+Added Pin To Net: NetName=GND Pin=RJ1-5
+Added Pin To Net: NetName=GND Pin=RJ1-6
+Added Pin To Net: NetName=+5 Pin=RJ1-7
+Added Pin To Net: NetName=+5 Pin=RJ1-8
+Added Pin To Net: NetName=PWM_A Pin=Step?-4
+Added Pin To Net: NetName=PWM_D Pin=Step?-16
+Added Member To Class: ClassName=Interfaces Member=Component RJ1 RJ45
